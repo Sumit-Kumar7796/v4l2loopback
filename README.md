@@ -56,7 +56,7 @@ simply refuse to load. if you are unlucky, your computer will spit in your eye o
 there are distribution-specific differences on how to get the correct kernel headers
 (or to install a compilation toolchain).
 documenting all those possibilities would go far beyond the scope of `v4l2loopback`.
-please understnd that we cannot provide support for questions regarding dependencies.
+please understand that we cannot provide support for questions regarding dependencies.
 
 
 # BUILD
